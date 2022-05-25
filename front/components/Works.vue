@@ -1,31 +1,30 @@
 <template>
-  <div class="works">
-  <h1>🌱 Works</h1>
-
+  <div class="works" id="works">
+  <h1>Works</h1>
     <div class="portfolio">
       <h2>自己内省アプリ『Insight』</h2>
       <div class="contents">
-        <img src="~/assets/img/insight.png" width="450px">
+        <a href="https://www.insight-naisei.com/" target="_blank" rel="noopener noreferrer"><img src="~/assets/img/insight.png" width="450px"></a>
         <div class="text">
           <h3>概要</h3>
           <p>・自己認識を深めるための自己内省アプリ。<br>
             ・自分を知るための様々な質問に回答し、記録していきます。<br>
             ・ユーザーは人生の分岐点が多い10〜30代を想定。<br>
-            ・URL：https://www.insight-naisei.com/
+            ・URL：<a  href="https://www.insight-naisei.com/" target="_blank" rel="noopener noreferrer">https://www.insight-naisei.com/</a>
           </p>
           <h3>制作時期</h3>
           <p>2022年2月～4月半ば</p>
           <h3>使用技術</h3>
           <p>HTML, CSS, JavaScript, Vue.js/Nuxt.js, Vuetify, Firebase, Ruby on Rail（APIモード）, AWS（VPC・EC2・RDS・S3・ELB・CloudFront・IAM・Route53・ACM）</p>
           <h3>ソースコード(GitHub)</h3>
-          <p>https://github.com/mayukoooo/nuxt-rails-insight</p>
+          <p><a href="https://github.com/mayukoooo/nuxt-rails-insight" target="_blank" rel="noopener noreferrer">https://github.com/mayukoooo/nuxt-rails-insight</a></p>
         </div>
       </div>
       <h3>こだわりポイント</h3>
       <p>・完全SPA化によるページ遷移の高速化を実現。<br>
          ・ターゲットユーザーは人生の分岐点が多い20〜30代男女問わずを想定しているので、中間的な雰囲気づくりを意識しました。<br>
          ・「電車で取り組めるくらい手軽に」がコンセプトとしてあったので、スマホからのアクセスを想定したUI/UXにこだわりました。<br>
-         ・Qiita：制作過程をQiita記事にまとめています。<a>https://qiita.com/Mayuko_Yamagishi/items/b18646cbff7f95d37cc1</a>
+         ・Qiita：制作過程をQiita記事にまとめています。<a href="https://qiita.com/Mayuko_Yamagishi/items/b18646cbff7f95d37cc1" target="_blank" rel="noopener noreferrer">https://qiita.com/Mayuko_Yamagishi/items/b18646cbff7f95d37cc1</a>
       </p>
     </div>
     <div class="portfolio">
@@ -35,14 +34,14 @@
         <div class="text">
           <h3>概要</h3>
           <p>・私のこれまでの活動や人間性を伝えることを目的に作成。<br>
-            ・URL：https://www.insight-naisei.com/
+             ・URL：<a  href="http://mayuko-portfolio-site.s3-website-ap-northeast-1.amazonaws.com/" target="_blank" rel="noopener noreferrer">http://mayuko-portfolio-site.s3-website-ap-northeast-1.amazonaws.com/</a>
           </p>
           <h3>制作時期</h3>
           <p>2022年5月～</p>
           <h3>使用技術</h3>
-          <p>HTML, CSS, JavaScript, Vue.js/Nuxt.js, Vuetify, Netlify</p>
+          <p>HTML, CSS, JavaScript, Vue.js/Nuxt.js, Vuetify, S3</p>
           <h3>ソースコード(GitHub)</h3>
-          <p>https://github.com/mayukoooo/porfolio-site</p>
+          <p><a href="https://github.com/mayukoooo/portfolio-site" target="_blank" rel="noopener noreferrer">https://github.com/mayukoooo/portfolio-site</a></p>
         </div>
       </div>
       <h3>こだわりポイント</h3>
