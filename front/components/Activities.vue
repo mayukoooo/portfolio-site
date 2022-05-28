@@ -47,7 +47,7 @@
 
         <h3>投稿記事</h3>
         <ul>
-          <li>2022/4/23<a href="https://qiita.com/Mayuko_Yamagishi/items/b18646cbff7f95d37cc1" target="_blank" rel="noopener noreferrer">【ポートフォリオ】完全未経験が２ヶ月半で「自己内省アプリ」を完全SPA化して作ってみました【Nuxt, Rails, AWS</a></li>
+          <li>2022/4/23<a href="https://qiita.com/Mayuko_Yamagishi/items/b18646cbff7f95d37cc1" target="_blank" rel="noopener noreferrer">【ポートフォリオ】完全未経験が２ヶ月半で「自己内省アプリ」を完全SPA化して作ってみました【Nuxt, Rails, AWS】</a></li>
           <li>2022/5/1<a href="https://qiita.com/Mayuko_Yamagishi/items/046457044e5409cde4c2" target="_blank" rel="noopener noreferrer"> SPAでリロードした時にaccess deniedになってしまう時の対処法</a></li>
         </ul>
       </div>
@@ -90,8 +90,5 @@ export default {
 }
 li {
   font-size: 14.4px;
-}
-.bottom {
-  margin-bottom: 16px;
 }
 </style>

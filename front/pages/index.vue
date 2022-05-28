@@ -69,4 +69,7 @@ a {
   color: blue;
   font-weight: bold;
 }
+.bottom {
+  margin-bottom: 16px;
+}
 </style>
