@@ -35,7 +35,7 @@
   <div class="activity">
     <h2>💎 Qiitaへ技術記事投稿</h2>
     <div class="contents">
-      <img src="~/assets/img/qiita.png" height="200px">
+      <a href="https://qiita.com/Mayuko_Yamagishi" target="_blank" rel="noopener noreferrer"><img src="~/assets/img/qiita.png" height="200px"></a>
       <div class="text">
         <h3>活動内容</h3>
         <p>・誰かに教えるつもりで書くことで、「何故か」の部分の理解を深める。</p>
@@ -48,13 +48,13 @@
   <div class="activity">
     <h2>🏅 AtCoderにチャレンジ</h2>
     <div class="contents">
-      <img src="~/assets/img/atcoder.png" height="200px">
+      <a href="https://utopian-moat-987.notion.site/AtCoder-261f50d6130c476e911eb2feed5438c2" target="_blank" rel="noopener noreferrer"><img src="~/assets/img/atcoder.png" height="200px"></a>
       <div class="text">
         <h3>活動内容</h3>
-        <p>・基礎力強化のためにAtCoderのA,B問題（過去問）に取り組む。<br>
+        <p>・基礎力強化のためにAtCoder Beginner ContestのA,B問題（過去問）に取り組む。<br>
            ・週1回競プロ勉強会に参加し、モチベーションを高める。メンバーの解法を見ることで新しいアプローチ方法を学ぶ。<br>
            <font color="#FF1616"><b>・培った力：コーディング基礎力</b></font><br>
-           ・解答URL：
+           ・解答URL：<a href="https://utopian-moat-987.notion.site/AtCoder-261f50d6130c476e911eb2feed5438c2" target="_blank" rel="noopener noreferrer">https://utopian-moat-987.notion.site/AtCoder-261f50d6130c476e911eb2feed5438c2</a>
         </p>
       </div>
     </div>

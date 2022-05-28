@@ -5,6 +5,7 @@
     <nav class="nav">
       <ul class="menu-group">
         <li class="menu-item"><a href="#aboutMe">About me</a></li>
+        <li class="menu-item"><a href="#passion">Passsion</a></li>
         <li class="menu-item"><a href="#works">Works</a></li>
         <li class="menu-item"><a href="#activities">Activities</a></li>
       </ul>
