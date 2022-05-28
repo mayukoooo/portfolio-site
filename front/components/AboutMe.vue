@@ -93,9 +93,6 @@ h2 {
   margin-bottom: 20px;
   margin-right: 40px;
 }
-.profileText h2 {
-  /* color: #BF4E1A; */
-}
 .history h3 {
   margin-bottom: 10px;
 }
