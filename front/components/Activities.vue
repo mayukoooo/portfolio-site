@@ -21,14 +21,14 @@
   <div class="activity">
     <h2>✏️ 日報作成</h2>
     <div class="contents">
-      <img src="~/assets/img/nippou.png" height="200px">
+      <a href="https://utopian-moat-987.notion.site/962370cde26e487fa9402e4570a264ed?v=0f85504e7aed49b9b1b7a1210859ee39" target="_blank" rel="noopener noreferrer"><img src="~/assets/img/nippou.png" height="200px"></a>
       <div class="text">
         <h3>活動内容</h3>
         <ul>
           <li>1日のTODOを明確化し、その日の成果をアウトプットとして残すことで継続化を図る。</li>
           <li>2022年2月より毎日欠かさず作成。</li>
           <li><font color="#FF1616"><b>培った力：学習の習慣、学習したことの言語化力、継続力</b></font></li>
-          <li>日報URL：※工事中</li>
+          <li>日報URL：<a href="https://utopian-moat-987.notion.site/962370cde26e487fa9402e4570a264ed?v=0f85504e7aed49b9b1b7a1210859ee39" target="_blank" rel="noopener noreferrer">https://utopian-moat-987.notion.site/962370cde26e487fa9402e4570a264ed?v=0f85504e7aed49b9b1b7a1210859ee39</a></li>
         </ul>
       </div>
     </div>
