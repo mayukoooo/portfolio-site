@@ -61,7 +61,7 @@
       <div class="text">
         <h3>活動内容</h3>
         <ul>
-          <li>基礎力強化のためにtCoder Beginner ContestのA,B問題（過去問）に取り組む。</li>
+          <li>基礎力強化のためにAtCoder Beginner ContestのA,B問題（過去問）に取り組む。</li>
           <li>週1回競プロ勉強会に参加し、モチベーションを高める。メンバーの解法を見ることで新しいアプローチ方法を学ぶ。</li>
           <li><font color="#FF1616"><b>培った力：コーディング基礎力</b></font></li>
           <li>解答URL：<a href="https://utopian-moat-987.notion.site/AtCoder-261f50d6130c476e911eb2feed5438c2" target="_blank" rel="noopener noreferrer">https://utopian-moat-987.notion.site/AtCoder-261f50d6130c476e911eb2feed5438c2</a></li>
