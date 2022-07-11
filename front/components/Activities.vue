@@ -49,7 +49,8 @@
         <ul>
           <li>2022/4/23<a href="https://qiita.com/Mayuko_Yamagishi/items/b18646cbff7f95d37cc1" target="_blank" rel="noopener noreferrer">【ポートフォリオ】完全未経験が2ヶ月半で「自己内省アプリ」を完全SPA化して作ってみました【Nuxt, Rails, AWS】</a></li>
           <li>2022/5/1<a href="https://qiita.com/Mayuko_Yamagishi/items/046457044e5409cde4c2" target="_blank" rel="noopener noreferrer"> SPAでリロードした時にaccess deniedになってしまう時の対処法</a></li>
-          <li>2022/7/10<a href="https://qiita.com/Mayuko_Yamagishi/items/f7383c88b372df3c9d47" target="_blank" rel="noopener noreferrer"> npmってなんだ</a></li>
+          <li>2022/7/10<a href="https://qiita.com/Mayuko_Yamagishi/items/f7383c88b372df3c9d47" target="_blank" rel="noopener noreferrer"> なんとなくnpmを使うのはもう終わりにする。</a></li>
+          <li>2022/7/12<a href="https://qiita.com/Mayuko_Yamagishi/items/b63a2036da1c72eb43a1" target="_blank" rel="noopener noreferrer"> なんとなくwebpackを使うのはもう終わりにする。【動作確認編】</a></li>
         </ul>
       </div>
     </div>
